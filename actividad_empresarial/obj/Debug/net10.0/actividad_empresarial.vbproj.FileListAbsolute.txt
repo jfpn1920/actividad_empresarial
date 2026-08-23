@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\actividad_empresarial\actividad_empresarial\bin\Debug\net10.0\actividad_empresarial.exe
+C:\Users\LENOVO\OneDrive\Documentos\actividad_empresarial\actividad_empresarial\bin\Debug\net10.0\actividad_empresarial.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\actividad_empresarial\actividad_empresarial\bin\Debug\net10.0\actividad_empresarial.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\actividad_empresarial\actividad_empresarial\bin\Debug\net10.0\actividad_empresarial.dll
+C:\Users\LENOVO\OneDrive\Documentos\actividad_empresarial\actividad_empresarial\bin\Debug\net10.0\actividad_empresarial.pdb
+C:\Users\LENOVO\OneDrive\Documentos\actividad_empresarial\actividad_empresarial\obj\Debug\net10.0\actividad_empresarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\actividad_empresarial\actividad_empresarial\obj\Debug\net10.0\actividad_empresarial.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\actividad_empresarial\actividad_empresarial\obj\Debug\net10.0\actividad_empresarial.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\actividad_empresarial\actividad_empresarial\obj\Debug\net10.0\actividad_empresarial.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\actividad_empresarial\actividad_empresarial\obj\Debug\net10.0\actividad_empresarial.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\actividad_empresarial\actividad_empresarial\obj\Debug\net10.0\actividad_empresarial.dll
+C:\Users\LENOVO\OneDrive\Documentos\actividad_empresarial\actividad_empresarial\obj\Debug\net10.0\refint\actividad_empresarial.dll
+C:\Users\LENOVO\OneDrive\Documentos\actividad_empresarial\actividad_empresarial\obj\Debug\net10.0\actividad_empresarial.pdb
+C:\Users\LENOVO\OneDrive\Documentos\actividad_empresarial\actividad_empresarial\obj\Debug\net10.0\actividad_empresarial.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\actividad_empresarial\actividad_empresarial\obj\Debug\net10.0\ref\actividad_empresarial.dll
